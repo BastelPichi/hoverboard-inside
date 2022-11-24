@@ -8,10 +8,10 @@ Feel free to report any errors by opening an issue.
 
 Disclaimer: the table below is work in progress and will be updated later.
 
-|                Picture(s)<br>                   | Flashable | Motor Size <br>  | Motor Image<br>              | Stator<br> | 
-| ----------------------------------------------- | --------- | ---------------- | ---------------------------- | ------------ |
-| <img src="images/hoverboard_1.jpg" width="120"> |   Normal  |        6.5"      | <img src="images/wheel_1.jpeg" width="120"> | 35mm |
-| <img src="images/hoverboard_2.jpg" width="120"> |   Split   |        6.5"      | <img src="images/wheel_2.jpeg" width="120"> | 20mm |
+|                Picture(s)<br>                   |   Brand   | Flashable | Motor Size <br>  | Motor Image<br>              | Stator<br> | 
+| ----------------------------------------------- | --------- | --------- | ---------------- | ---------------------------- | ------------ |
+| <img src="images/hoverboard_1.jpg" width="120"> | Different |  Normal   |        6.5"      | <img src="images/wheel_1.jpeg" width="120"> | 35mm |
+| <img src="images/hoverboard_2.jpg" width="120"> |  Denver   |  Split    |        6.5"      | <img src="images/wheel_2.jpeg" width="120"> | 20mm |
 
 
 
